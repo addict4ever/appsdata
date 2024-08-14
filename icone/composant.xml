@@ -1,0 +1,47 @@
+<network>
+    <!-- Ordinateurs -->
+    <component type="computer" name="PC 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/pc1.png" />
+    <component type="computer" name="PC 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/pc2.png" />
+
+    <!-- Laptops -->
+    <component type="laptop" name="Laptop 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/laptop1.png" />
+    <component type="laptop" name="Laptop 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/laptop2.png" />
+
+    <!-- Routeurs -->
+    <component type="router" name="Routeur WiFi" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/routerwifi.png" />
+
+    <!-- Switchs -->
+    <component type="switch" name="Switch 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/switch1.png" />
+    <component type="switch" name="Switch 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/switch2.png" />
+
+    <!-- Points d'accès -->
+    <component type="ap" name="Point d'Accès" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/ap.png" />
+
+    <!-- Pare-feu -->
+    <component type="firewall" name="Pare-feu 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/firewall1.png" />
+    <component type="firewall" name="Pare-feu 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/firewall2.png" />
+
+    <!-- NAS -->
+    <component type="nas" name="NAS 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/nas1.png" />
+    <component type="nas" name="NAS 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/nas2.png" />
+
+    <!-- Imprimantes -->
+    <component type="printer" name="Imprimante 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/imprimante1.png" />
+    <component type="printer" name="Imprimante 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/imprimante2.png" />
+
+    <!-- Photocopieurs -->
+    <component type="photocopier" name="Photocopieur 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/photocopieur1.png" />
+    <component type="photocopier" name="Photocopieur 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/photocopieur2.png" />
+
+    <!-- Scanners -->
+    <component type="scanner" name="Scanner 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/scanner1.png" />
+    <component type="scanner" name="Scanner 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/scanner2.png" />
+
+    <!-- Cellulaires -->
+    <component type="cellphone" name="Cellulaire 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/cellulaire1.png" />
+    <component type="cellphone" name="Cellulaire 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/cellulaire2.png" />
+
+    <!-- Terminaux de paiement -->
+    <component type="payment_terminal" name="Terminal de Paiement 1" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/payment1.png" />
+    <component type="payment_terminal" name="Terminal de Paiement 2" image="https://raw.githubusercontent.com/addict4ever/appsdata/main/icone/payment2.png" />
+</network>
